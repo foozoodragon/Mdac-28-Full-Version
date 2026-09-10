@@ -232,3 +232,6 @@ This repository serves as the official landing page for MDAC 2.8. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MDAC 2.8 today!**
+
+---
+**Last updated:** 2026-09-10 08:30:30 UTC
